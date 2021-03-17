@@ -1,0 +1,54 @@
+1615976310868	geckodriver	INFO	Listening on 127.0.0.1:61398
+1615976313915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hecto\\AppData\\Local\\Temp\\rust_mozprofilet5iyJg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615976317578	Marionette	INFO	Listening on port 61407
+1615976318092	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1615976324647	Marionette	INFO	Stopped listening on port 61407
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615999648558	geckodriver	INFO	Listening on 127.0.0.1:51903
+1615999651573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hecto\\AppData\\Local\\Temp\\rust_mozprofileNogOHS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615999655074	Marionette	INFO	Listening on port 51913
+1615999656980	Marionette	INFO	Stopped listening on port 51913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615999672928	geckodriver	INFO	Listening on 127.0.0.1:51968
+1615999675971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hecto\\AppData\\Local\\Temp\\rust_mozprofile2GAeCv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615999678512	Marionette	INFO	Listening on port 51977
+1615999678636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615999739177	Marionette	INFO	Stopped listening on port 51977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615999754083	geckodriver	INFO	Listening on 127.0.0.1:52516
+1615999757124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hecto\\AppData\\Local\\Temp\\rust_mozprofile9ijebX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615999759772	Marionette	INFO	Listening on port 52538
+1615999759819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615999763809	Marionette	INFO	Stopped listening on port 52538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615999796716	geckodriver	INFO	Listening on 127.0.0.1:52708
+1615999799756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hecto\\AppData\\Local\\Temp\\rust_mozprofileaiyBx2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615999802538	Marionette	INFO	Listening on port 52720
+1615999802926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/s/player/b2e56c01/player_ias.vflset/es_ES/base.js, line 1010: NS_ERROR_FAILURE
+JavaScript error: https://www.youtube.com/s/player/b2e56c01/player_ias.vflset/es_ES/base.js, line 1010: NS_ERROR_FAILURE
+JavaScript error: https://www.youtube.com/s/player/b2e56c01/player_ias.vflset/es_ES/base.js, line 1010: NS_ERROR_FAILURE
+JavaScript error: https://www.youtube.com/s/player/b2e56c01/player_ias.vflset/es_ES/base.js, line 1010: NS_ERROR_FAILURE
+JavaScript error: https://www.youtube.com/s/player/b2e56c01/player_ias.vflset/es_ES/base.js, line 1010: NS_ERROR_FAILURE
+JavaScript error: https://www.youtube.com/s/player/b2e56c01/player_ias.vflset/es_ES/base.js, line 1010: NS_ERROR_FAILURE
+JavaScript error: https://www.youtube.com/s/player/b2e56c01/player_ias.vflset/es_ES/base.js, line 1010: NS_ERROR_FAILURE
+1615999859842	Marionette	INFO	Stopped listening on port 52720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
